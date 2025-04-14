@@ -13,5 +13,5 @@ BikeShare Project update for Udacity Nanodegree
 bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+(https://github.com/mikey2722472/github_project)
 
