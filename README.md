@@ -8,7 +8,7 @@ Include the date you created this project and README file.
 BikeShare Project
 
 ### Description
-Describe what your project is about and what it does
+BikeShare Project update for Udacity Nanodegree
 
 ### Files used
 Include the files used
